@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MyUnitTest" project="MyFirstMaven" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.example.MyUnitTest" time="0.019">
+    <testcase name="test1" classname="com.example.MyUnitTest" time="0.018"/>
+    <testcase name="test3" classname="com.example.MyUnitTest" time="0.001"/>
+  </testsuite>
+</testrun>
