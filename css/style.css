@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: yellowgreen;
+    margin-left: 20px;
+    text-shadow: 2px 2px 5px red;
+
+  }
+  p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
