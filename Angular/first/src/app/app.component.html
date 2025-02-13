@@ -1,0 +1,17 @@
+<h1>{{title}}</h1>
+<h1>{{name}}</h1>
+<h1>{{phnno}}</h1>
+<a [href]="url">W3 schools</a>
+<button (click)="greeting()">Greet</button>
+<input type="text" [(ngModel)]="name1">
+{{name1}}
+<form>
+  Id:<input type="number" [(ngModel)]="employee.id" name="id">
+  <br>
+
+  Name:<input type="text" [(ngModel)]="employee.name" name="name">
+  <br>
+  Email:<input type="email" [(ngModel)]="employee.Email" name="Email">
+  <br>
+  <button (click)="log()">Log</button>
+</form>
